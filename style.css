@@ -22,11 +22,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
-main {
+header {
     width: 100%;
     background: linear-gradient(180deg,
-            rgba(17, 17, 17, 1) 100%,
-            rgba(119, 119, 119, 1) 0%);
+    rgba(17, 17, 17, 1) 0%,
+    rgba(69, 69, 69, 0.4957)50%,
+    rgba(119, 119, 119, 0) 100%);
 }
 
 
